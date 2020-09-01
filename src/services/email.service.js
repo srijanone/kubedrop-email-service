@@ -22,7 +22,7 @@ class EmailService {
     
     // If templateId exists, include options for template
     if(templateId) {
-      logger.info('Using Template');
+      logger.info('Using template');
       emailOptions.templateId = templateId;
       emailOptions.dynamic_template_data = templateData;
     } else {
@@ -33,7 +33,7 @@ class EmailService {
     const promise = sgMail.send(emailOptions);
     promise
       .then(data => {
-        logger.info('mail sent');
+        logger.info('Mail sent');
       })
       .catch(error => {
         logger.error(error, 'error in sending mail');
