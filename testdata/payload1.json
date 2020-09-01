@@ -1,0 +1,280 @@
+{
+    "data" : {
+        "in_preview" : null,
+        "\u0000*\u0000values" : {
+            "langcode" : {
+                "x-default" : [ {
+                    "value" : "en"
+                } ]
+            },
+            "vid" : {
+                "x-default" : [ ]
+            },
+            "nid" : {
+                "x-default" : [ ]
+            },
+            "uuid" : {
+                "x-default" : [ {
+                    "value" : "6464ca42-9b09-4c09-b740-741e25eede57"
+                } ]
+            },
+            "type" : {
+                "x-default" : [ {
+                    "target_id" : "article"
+                } ]
+            },
+            "revision_timestamp" : {
+                "x-default" : [ {
+                    "value" : 1598875658
+                } ]
+            },
+            "revision_uid" : {
+                "x-default" : [ {
+                    "target_id" : "1"
+                } ]
+            },
+            "revision_log" : {
+                "x-default" : [ ]
+            },
+            "status" : {
+                "x-default" : [ {
+                    "value" : 1
+                } ]
+            },
+            "uid" : {
+                "x-default" : [ {
+                    "target_id" : "1"
+                } ]
+            },
+            "title" : {
+                "x-default" : [ {
+                    "value" : "My article"
+                } ]
+            },
+            "created" : {
+                "x-default" : [ {
+                    "value" : 1598875621
+                } ]
+            },
+            "changed" : {
+                "x-default" : [ {
+                    "value" : 1598875658
+                } ]
+            },
+            "promote" : {
+                "x-default" : [ {
+                    "value" : 1
+                } ]
+            },
+            "sticky" : {
+                "x-default" : [ {
+                    "value" : 0
+                } ]
+            },
+            "default_langcode" : {
+                "x-default" : [ {
+                    "value" : true
+                } ]
+            },
+            "revision_default" : {
+                "x-default" : [ ]
+            },
+            "revision_translation_affected" : {
+                "x-default" : [ ]
+            },
+            "path" : {
+                "x-default" : [ {
+                    "langcode" : "en"
+                } ]
+            },
+            "body" : {
+                "x-default" : [ {
+                    "summary" : "",
+                    "value" : "<p>Body Body Body</p>\r\n",
+                    "format" : "basic_html"
+                } ]
+            },
+            "comment" : {
+                "x-default" : [ {
+                    "status" : "2",
+                    "cid" : 0,
+                    "last_comment_timestamp" : 0,
+                    "last_comment_name" : "",
+                    "last_comment_uid" : 0,
+                    "comment_count" : 0
+                } ]
+            },
+            "field_image" : {
+                "x-default" : [ {
+                    "alt" : "foo",
+                    "width" : "1905",
+                    "height" : "949",
+                    "display" : "1",
+                    "description" : "",
+                    "upload" : "",
+                    "title" : "",
+                    "target_id" : "1"
+                } ]
+            },
+            "field_tags" : {
+                "x-default" : [ ]
+            },
+            "menu" : {
+                "enabled" : 0,
+                "id" : "",
+                "entity_id" : 0,
+                "title" : "",
+                "description" : "",
+                "menu_parent" : "main:",
+                "weight" : "0"
+            },
+            "original" : null
+        },
+        "\u0000*\u0000fields" : {
+            "nid" : {
+                "x-default" : { }
+            },
+            "uuid" : {
+                "x-default" : { }
+            },
+            "vid" : {
+                "x-default" : { }
+            },
+            "langcode" : {
+                "x-default" : { }
+            },
+            "type" : {
+                "x-default" : { }
+            },
+            "revision_timestamp" : {
+                "x-default" : { }
+            },
+            "revision_uid" : {
+                "x-default" : { }
+            },
+            "revision_log" : {
+                "x-default" : { }
+            },
+            "status" : {
+                "x-default" : { }
+            },
+            "uid" : {
+                "x-default" : { }
+            },
+            "title" : {
+                "x-default" : { }
+            },
+            "created" : {
+                "x-default" : { }
+            },
+            "changed" : {
+                "x-default" : { }
+            },
+            "promote" : {
+                "x-default" : { }
+            },
+            "sticky" : {
+                "x-default" : { }
+            },
+            "default_langcode" : {
+                "x-default" : { }
+            },
+            "revision_default" : {
+                "x-default" : { }
+            },
+            "revision_translation_affected" : {
+                "x-default" : { }
+            },
+            "path" : {
+                "x-default" : { }
+            },
+            "body" : {
+                "x-default" : { }
+            },
+            "comment" : {
+                "x-default" : { }
+            },
+            "field_image" : {
+                "x-default" : { }
+            },
+            "field_tags" : {
+                "x-default" : { }
+            }
+        },
+        "\u0000*\u0000fieldDefinitions" : {
+            "nid" : { },
+            "uuid" : { },
+            "vid" : { },
+            "langcode" : { },
+            "type" : { },
+            "revision_timestamp" : { },
+            "revision_uid" : { },
+            "revision_log" : { },
+            "status" : { },
+            "uid" : { },
+            "title" : { },
+            "created" : { },
+            "changed" : { },
+            "promote" : { },
+            "sticky" : { },
+            "default_langcode" : { },
+            "revision_default" : { },
+            "revision_translation_affected" : { },
+            "path" : { },
+            "body" : { },
+            "comment" : { },
+            "field_image" : { },
+            "field_tags" : { }
+        },
+        "\u0000*\u0000languages" : {
+            "en" : { },
+            "und" : { },
+            "zxx" : { }
+        },
+        "\u0000*\u0000langcodeKey" : "langcode",
+        "\u0000*\u0000defaultLangcodeKey" : "default_langcode",
+        "\u0000*\u0000activeLangcode" : "x-default",
+        "\u0000*\u0000defaultLangcode" : "en",
+        "\u0000*\u0000translations" : {
+            "x-default" : {
+                "status" : 1,
+                "entity" : {
+                    "in_preview" : null
+                }
+            }
+        },
+        "\u0000*\u0000translationInitialize" : false,
+        "\u0000*\u0000newRevision" : false,
+        "\u0000*\u0000isDefaultRevision" : true,
+        "\u0000*\u0000entityKeys" : {
+            "bundle" : "article",
+            "revision" : "11",
+            "id" : "9"
+        },
+        "\u0000*\u0000translatableEntityKeys" : {
+            "owner" : {
+                "x-default" : "1"
+            },
+            "published" : {
+                "x-default" : 1
+            },
+            "langcode" : {
+                "x-default" : "en"
+            }
+        },
+        "\u0000*\u0000validated" : false,
+        "\u0000*\u0000validationRequired" : false,
+        "\u0000*\u0000loadedRevisionId" : null,
+        "\u0000*\u0000revisionTranslationAffectedKey" : "revision_translation_affected",
+        "\u0000*\u0000enforceRevisionTranslationAffected" : [ ],
+        "\u0000*\u0000entityTypeId" : "node",
+        "\u0000*\u0000enforceIsNew" : false,
+        "\u0000*\u0000typedData" : { },
+        "\u0000*\u0000cacheContexts" : [ ],
+        "\u0000*\u0000cacheTags" : [ ],
+        "\u0000*\u0000cacheMaxAge" : -1,
+        "\u0000*\u0000_serviceIds" : [ ],
+        "\u0000*\u0000_entityStorages" : [ ],
+        "\u0000*\u0000isSyncing" : false
+    }
+}
