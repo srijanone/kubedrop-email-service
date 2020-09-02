@@ -52,7 +52,7 @@ const startKafkaConsumer = async () => {
 
     const messageValue = message.value.toString();
     const payload = JSON.parse(messageValue);
-    const data = payload.data.data;
+    const data = payload.data;
 
     let subject = '';
     let body = '';

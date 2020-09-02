@@ -15,7 +15,7 @@ EMAILS="vijay.soni@srijan.net,ashish.thakur@srijan.net"
 
 # API Related Config
 SENDGRID_API_KEY=""
-FROM_EMAIL="vijay.soni@srijan.net"     # Verify "from-email" address from sendgrid as well
+FROM_EMAIL="continua@srijan.net"       # Verify "from-email" address from sendgrid as well
 EMAIL_TEMPLATE_ID=""                   # If you want to use Template from SendGrid, otherwise keep it blank
 
 # Kafka Related Config

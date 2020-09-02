@@ -11,11 +11,8 @@ const main = async () => {
 
     let data = fs.readFileSync('./testdata/payload1.json').toString();
 
-    const message = {
-        metadata: { },
-        data: JSON.parse(data),
-    }
-
+    const message = JSON.parse(data);
+    
     const topic = 'article.created';
 
     await kafkaService.sendMessage(topic, message);
